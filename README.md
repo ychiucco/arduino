@@ -53,3 +53,5 @@ arduino:avr            1.8.6    /Users/yuri/Library/Arduino15/packages/arduino/h
 ```
 Nuova porta di caricamento: /dev/cu.usbmodem14132401 (serial)
 ```
+
+- `ard monitor -p /dev/cu.usbmodem14132401`
